@@ -1,0 +1,8 @@
+[package]
+name = "spot_sbe"
+version = "0.0.1"
+edition = "2021"
+
+[lib]
+name = "spot_sbe"
+path = "src/lib.rs"
